@@ -25,7 +25,6 @@
 - 📫 How to reach me krishnaspattel@gmail.com 
   
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eH-_tMC4jPP6SyalmZ-Ju915yzb1AApB/view?usp=drive_link)  
 
 <br/> 
 
