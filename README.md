@@ -6,11 +6,12 @@
 # **<div align="center">Hi 👋, I'm SHRIKRISHNA PATEL</div>**  
 #### **<div align="center">A passionate Frontend Developer</div>**  
 <br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10 /> </p>
-<p> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10" /> 
+</p>
 
+![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?Krishnaaa10=ryo-ma&theme=radical)
 
 - 🌱 I’m currently learning **C++, Java, Python, Frontend Development**  
   
