@@ -3,10 +3,10 @@
 </div>  
   
 
-# **<div align="center">Hi 👋, I'm Aryan Soni</div>**  
+# **<div align="center">Hi 👋, I'm SHRIKRISHNA PATEL</div>**  
 #### **<div align="center">A passionate ML developer</div>**  
 <br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10 /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
