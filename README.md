@@ -4,11 +4,11 @@
   
 
 # **<div align="center">Hi 👋, I'm SHRIKRISHNA PATEL</div>**  
-#### **<div align="center">A passionate ML developer</div>**  
+#### **<div align="center">A passionate Frontend Developer</div>**  
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10 /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
   
