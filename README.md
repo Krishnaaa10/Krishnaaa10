@@ -7,8 +7,10 @@
 #### **<div align="center">A passionate Frontend Developer</div>**  
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10 /> </p>
+<p> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10)
 
 - 🌱 I’m currently learning **C++, Java, Python, Frontend Development**  
   
@@ -23,16 +25,11 @@
   
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eH-_tMC4jPP6SyalmZ-Ju915yzb1AApB/view?usp=drive_link)  
-   
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <br/> 
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ARYAN_269269?theme=dark&font=Noto%20Serif)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shrikrishnapatel10?theme=dark&font=Noto%20Serif)
 
 <br/>
 
@@ -43,26 +40,27 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/aryansoni13" target="_blank">
+<a href="https://github.com/Krishnaaa10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Aaaryan11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aryan-soni-26794924a" target="_blank">
+<a href="https://www.linkedin.com/in/shrikrishnapatel10/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/aryan_soni269269" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryansoni13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansoni13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Krishnaaa10&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krishnaaa10&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaaa10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Krishnaaa10&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Krishnaaa10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
