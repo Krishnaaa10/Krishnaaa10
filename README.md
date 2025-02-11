@@ -10,25 +10,20 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on **Gemini Based AI Model**
+- 🌱 I’m currently learning **C++, Java, Python, Frontend Development**  
   
 
-- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**  
+- 👨‍💻 All of my projects are available at[ Github](https://github.com/Krishnaaa10)  
   
 
-- 👨‍💻 All of my projects are available at[ Github](https://github.com/aryansoni13)  
+- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB**  
   
 
-- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**  
-  
-
-- 📫 How to reach me aryansoni26827@gmail.com  
+- 📫 How to reach me krishnaspattel@gmail.com 
   
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eH-_tMC4jPP6SyalmZ-Ju915yzb1AApB/view?usp=drive_link)  
-  
-
-- 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)  
+   
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
