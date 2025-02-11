@@ -13,13 +13,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10&theme=radical)
 
 
-- 🌱 I’m currently learning **C++, Java, Python, Frontend Development**  
+- 🌱 I’m currently learning **Java, C++, Python, Frontend Development**  
   
 
 - 👨‍💻 All of my projects are available at[ Github](https://github.com/Krishnaaa10)  
   
 
-- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB**  
+- 💬 Ask me about **Java, C++, Python, React, JavaScript, Tailwind, Node Js, MongoDB**  
   
 
 - 📫 How to reach me krishnaspattel@gmail.com 
