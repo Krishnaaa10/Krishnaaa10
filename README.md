@@ -10,7 +10,7 @@
 <p> </p>
 
 
-![](https://github-profile-trophy.vercel.app/?username=Krishnaaa10)
+![](https://github-profile-trophy.vercel.app/?Krishnaaa10=ryo-ma&theme=radical)
 
 - 🌱 I’m currently learning **C++, Java, Python, Frontend Development**  
   
