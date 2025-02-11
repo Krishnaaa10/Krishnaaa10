@@ -30,7 +30,7 @@
 <br/> 
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/shrikrishnapatel10?theme=dark&font=Noto%20Serif)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shrikrishna10?theme=dark&font=Trirong)
 
 <br/>
 
