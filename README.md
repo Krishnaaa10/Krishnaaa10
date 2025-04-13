@@ -26,12 +26,18 @@
 
   
 
-<br/> 
+<br/>
 
-## LeetCode Stats
+## 🧠 Competitive Programming Stats
+
+### LeetCode  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shrikrishna10?theme=dark&font=Trirong)
 
+### GeeksforGeeks  
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-%2315C40B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shrikrishnapatel/)
+
 <br/>
+
 
 ## 💻 My Skill Set:
 
