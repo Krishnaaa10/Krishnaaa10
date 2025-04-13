@@ -23,8 +23,8 @@
   
 
 - 📫 How to reach me krishnaspattel@gmail.com 
-  
 
+  
 
 <br/> 
 
