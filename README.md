@@ -36,21 +36,6 @@
 ### GeeksforGeeks  
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-%2315C40B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shrikrishnapatel/)
 
-<h2 align="left">🧠 Competitive Programming Stats</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>LeetCode</h3>
-      <img src="https://leetcard.jacoblin.cool/Shrikrishna10?theme=dark&font=Trirong" alt="LeetCode Stats" />
-    </td>
-    <td valign="top" width="40%">
-      <h3>GeeksforGeeks</h3>
-      <a href="https://www.geeksforgeeks.org/user/shrikrishnapatel/" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-%2315C40B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
-      </a
-
-
 <br/>
 
 
