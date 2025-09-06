@@ -4,7 +4,7 @@
   
 
 # **<div align="center">Hi 👋, I'm SHRIKRISHNA PATEL</div>**  
-#### **<div align="center">A passionate Frontend Developer</div>**  
+#### **<div align="center">A passionate MERN Stack Developer</div>**  
 <br> 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Krishnaaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaaa10" /> 
